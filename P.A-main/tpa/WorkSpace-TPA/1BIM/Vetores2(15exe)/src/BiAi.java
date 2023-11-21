@@ -33,3 +33,7 @@ public class BiAi {
 
     }
 }
+
+
+
+//pra consulta (a[i] % 2 == 0) verifica se o valor armazenado em a[i] é divisível por 2 sem deixar um resto. ou seja, confere se é par//
